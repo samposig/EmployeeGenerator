@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "inquire": "^0.4.8",
+    "inquirer": "^8.2.0"
+  },
+  "name": "team-member-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose tests/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
